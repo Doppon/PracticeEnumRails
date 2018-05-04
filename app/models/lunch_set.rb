@@ -1,0 +1,2 @@
+class LunchSet < ApplicationRecord
+end
